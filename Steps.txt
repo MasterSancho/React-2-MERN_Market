@@ -27,3 +27,7 @@
   -> & Move it to ( src ) folder ->
    -> in ( index.js ) -> { import './bootstrap.min.css } ->
  -> Terminal-FrontEnd { npm i react-bootstrap }
+ ---------------------------------------------------------
+
+ => React Router ->
+ { npm i react-router-dom react-router-bootstrap }
