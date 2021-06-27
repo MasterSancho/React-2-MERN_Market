@@ -11,6 +11,7 @@
 { npm i dotenv } - backend
 { npm i mongoose } - backend
 { npm i colors } - backend
+{ npm i bcryptjs } - backend
 -------------------------------------
 
 => FrontEnd ->
@@ -50,3 +51,4 @@
  { npm i dotenv } - backend
  { npm i mongoose } - backend
  { npm i colors } - backend
+ { npm i bcryptjs } - backend
