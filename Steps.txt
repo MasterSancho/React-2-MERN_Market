@@ -2,6 +2,11 @@
 
 => Terminal ->
 { npx create-react-app frontend }
+{ npm i react-bootstrap }
+{ npm i react-router-dom react-router-bootstrap }
+{ npm init }
+{ npm i express }
+{ npm i axios }
 -------------------------------------
 
 => FrontEnd ->
@@ -35,4 +40,5 @@
 
  => BACKEND ->
  { npm init } ->
- { npm i express }
+ { npm i express } ->
+ { npm i axios }
