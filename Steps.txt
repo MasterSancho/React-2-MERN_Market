@@ -31,3 +31,8 @@
 
  => React Router ->
  { npm i react-router-dom react-router-bootstrap }
+ ---------------------------------------------
+
+ => BACKEND ->
+ { npm init } ->
+ { npm i express }
