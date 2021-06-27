@@ -7,6 +7,8 @@
 { npm init } -> backend
 { npm i express } -> backend
 { npm i axios } -> frontend
+{ npm i -D nodemon concurrently } - backend
+{ npm i dotenv } - backend
 -------------------------------------
 
 => FrontEnd ->
@@ -42,3 +44,5 @@
  { npm init } -> backend
  { npm i express } -> backend
  { npm i axios } -> frontend
+ { npm i -D nodemon concurrently } - backend
+ { npm i dotenv } - backend
