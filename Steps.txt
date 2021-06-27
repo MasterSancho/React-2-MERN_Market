@@ -2,11 +2,11 @@
 
 => Terminal ->
 { npx create-react-app frontend }
-{ npm i react-bootstrap }
-{ npm i react-router-dom react-router-bootstrap }
-{ npm init }
-{ npm i express }
-{ npm i axios }
+{ npm i react-bootstrap } -> frontend
+{ npm i react-router-dom react-router-bootstrap } -> frontend
+{ npm init } -> backend
+{ npm i express } -> backend
+{ npm i axios } -> frontend
 -------------------------------------
 
 => FrontEnd ->
@@ -31,14 +31,14 @@
  -> download Theme from Bootswatch ->
   -> & Move it to ( src ) folder ->
    -> in ( index.js ) -> { import './bootstrap.min.css } ->
- -> Terminal-FrontEnd { npm i react-bootstrap }
+ -> Terminal-FrontEnd { npm i react-bootstrap } -> frontend
  ---------------------------------------------------------
 
  => React Router ->
- { npm i react-router-dom react-router-bootstrap }
+ { npm i react-router-dom react-router-bootstrap } -> frontend
  ---------------------------------------------
 
  => BACKEND ->
- { npm init } ->
- { npm i express } ->
- { npm i axios }
+ { npm init } -> backend
+ { npm i express } -> backend
+ { npm i axios } -> frontend
