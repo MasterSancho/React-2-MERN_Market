@@ -9,6 +9,8 @@
 { npm i axios } -> frontend
 { npm i -D nodemon concurrently } - backend
 { npm i dotenv } - backend
+{ npm i mongoose } - backend
+{ npm i colors } - backend
 -------------------------------------
 
 => FrontEnd ->
@@ -46,3 +48,5 @@
  { npm i axios } -> frontend
  { npm i -D nodemon concurrently } - backend
  { npm i dotenv } - backend
+ { npm i mongoose } - backend
+ { npm i colors } - backend
