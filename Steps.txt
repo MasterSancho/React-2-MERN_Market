@@ -13,6 +13,7 @@
 { npm i colors } - backend
 { npm i bcryptjs } - backend
 { npm i express-async-handler } - backend
+{ npm i redux react-redux redux-thunk redux-devtools-extension } - frontend
 -------------------------------------
 
 => FrontEnd ->
@@ -54,3 +55,7 @@
  { npm i colors } - backend
  { npm i bcryptjs } - backend
  { npm i express-async-handler } - backend
+ ---------------------------------------------
+
+ => Redux install ->
+{ npm i redux react-redux redux-thunk redux-devtools-extension } - frontend
