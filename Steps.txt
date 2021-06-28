@@ -12,6 +12,7 @@
 { npm i mongoose } - backend
 { npm i colors } - backend
 { npm i bcryptjs } - backend
+{ npm i express-async-handler } - backend
 -------------------------------------
 
 => FrontEnd ->
@@ -52,3 +53,4 @@
  { npm i mongoose } - backend
  { npm i colors } - backend
  { npm i bcryptjs } - backend
+ { npm i express-async-handler } - backend
