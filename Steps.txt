@@ -64,3 +64,12 @@
 
 => JSON Web Token ->
 { npm i jsonwebtoken } - backend
+----------------------------------------------
+
+=> Inastal PayPal Button ->
+{ npm i react-paypal-button-v2 }
+----------------
+
+=> PayPal Account ->
+( sb-u38eg3411618@personal.example.com )
+( @l=T"Jc4 )
