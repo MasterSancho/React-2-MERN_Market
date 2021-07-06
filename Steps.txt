@@ -73,3 +73,7 @@
 => PayPal Account ->
 ( sb-u38eg3411618@personal.example.com )
 ( @l=T"Jc4 )
+----------------
+
+=> Upload img ->
+{ npm i multer }
