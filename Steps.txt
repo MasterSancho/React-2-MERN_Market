@@ -67,7 +67,7 @@
 ----------------------------------------------
 
 => Inastal PayPal Button ->
-{ npm i react-paypal-button-v2 }
+{ npm i react-paypal-button-v2 } -> frontend
 ----------------
 
 => PayPal Account ->
@@ -76,7 +76,7 @@
 ----------------
 
 => Upload img ->
-{ npm i multer }
+{ npm i multer } -> backend
 ----------------------
 
 => Morgan ->
@@ -85,3 +85,7 @@
 
 => Helmet ->
 { npm i react-helmet } -> frontend
+--------------------
+
+=> Google Map API ->
+{ AIzaSyCSejWp9VWYGfza7so2kKihhIJdKw-f59Y }
